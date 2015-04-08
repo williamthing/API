@@ -1,4 +1,4 @@
-<!-- google map of Seattle area, zoomed in at 9 -->
+<!-- google map in ROADMAP mode of Seattle area, zoomed in at 9 -->
 
 <!DOCTYPE html>
 <html>
@@ -13,6 +13,7 @@ src="http://maps.googleapis.com/maps/api/js">
     	center:new google.maps.LatLng(47.6097,-122.3331), // Seattle Coordinates
     	zoom:9,
     	mapTypeId:google.maps.MapTypeId.ROADMAP
+    	//mapTypeId:google.maps.MapTypeId.SATELLITE
   	};
   	var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
 }
