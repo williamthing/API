@@ -1,1 +1,1 @@
-# Playing with GoogleMaps and one of the best cities in the World!!
+# Playing with Google Maps and one of the best cities, Seattle!!
